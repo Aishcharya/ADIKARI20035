@@ -1,2 +1,2 @@
 # ADIKARI20035
-I LIKE GITHUB
+This is my first Repository
